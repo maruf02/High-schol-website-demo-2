@@ -1,0 +1,341 @@
+@charset "utf-8";
+/* CSS Document */
+
+*
+{
+	margin:0px;
+	padding:0px;
+	
+
+}
+
+#main
+{
+	border:1px solid #7317B8;
+	width:1198px;
+	height:810px;
+	margin-top:10px;
+	
+	}
+	
+	
+#left
+{
+	float:left;
+	/*border:1px solid #F5060A;*/
+	width:230px;
+	height:800px;
+	margin-top:10px;
+	margin-left:4px;
+	
+}
+
+#lb1
+{
+	border-radius:14px;
+	font-size:22px;
+	text-align:center;
+	line-height:40px;
+	margin-top:10px;
+	background-color:#1370D1;
+	/*border:1px solid #F5060A;*/
+	width:230px;
+	height:40px;
+	margin:auto;
+	font-family:siyam rupali;
+	
+}
+
+#lb2
+{
+	/*border:1px solid #F5060A;*/
+	width:230px;
+	height:80px;
+	margin-top:10px;
+	font-family:siyam rupali;
+	font-size:15px;
+	text-align:center;
+	line-height:40px;
+	
+}
+
+#lb3
+{
+	border-radius:14px;
+	text-align:center;
+	margin-top:10px;
+	background-color:#1370D1;
+	/*border:1px solid #F5060A;*/
+	width:230px;
+	height:40px;
+	text-align:center;
+	line-height:40px;
+	font-size:22px;
+	font-family:siyam rupali;
+	
+}
+
+#lb4
+{
+	/*border:1px solid #F5060A;*/
+	width:230px;
+	height:150px;
+	margin-top:10px;
+	text-align:center;
+	font-family:siyam rupali;
+	font-size:15px;
+}
+
+
+#lb5
+{
+	border-radius:14px;
+	text-align:center;
+	line-height:40px;
+	margin-top:10px;
+	background-color:#1370D1;
+	/*border:1px solid #F5060A;*/
+	width:230px;
+	height:40px;
+	/*margin:auto;*/
+	text-align:center;
+	line-height:40px;
+	font-size:22px;
+	font-family:siyam rupali;
+}
+
+#lb6
+{
+	/*border:1px solid #F5060A;*/
+	width:230px;
+	height:150px;
+	margin-top:10px;
+	text-align:center;
+	font-family:siyam rupali;
+	font-size:15px;
+}
+
+
+
+#lb7
+{
+	border-radius:14px;
+	text-align:center;
+	line-height:40px;
+	margin-top:10px;
+	background-color:#1370D1;
+	/*border:1px solid #F5060A;*/
+	width:230px;
+	height:40px;
+	/*margin:auto;*/
+	line-height:40px;
+	font-size:22px;
+	font-family:siyam rupali;
+}
+
+
+#lb8
+{
+	/*border:1px solid #F5060A;*/
+	width:230px;
+	height:150px;
+	margin-top:10px;
+	text-align:center;
+	font-family:siyam rupali;
+	font-size:15px;
+}
+
+
+#h4
+{
+	
+}
+
+
+#middle
+{
+	margin:10px;
+	float:left;
+	/*border:1px solid #F5060A;*/
+	width:700px;
+	height:788px;
+	margin:auto;
+}
+
+#slider1
+{
+	/*border:1px solid #F5060A;*/
+	width:700px;
+	height:350px;
+	margin-top:10px;
+	margin-left:5px;
+}
+
+#hdm
+{
+	margin-top:15px;
+	/*border:1px solid #F5060A;*/
+	width:700px;
+	height:170px;
+	margin:auto;
+}
+
+#hdml
+{
+	float:left;
+	/*border:1px solid #F5060A;*/
+	width:140px;
+	height:170px;
+	margin:auto;
+	
+}
+
+
+#hdmr
+{
+	float:right;
+	/*border:1px solid #F5060A;*/
+	width:550px;
+	height:170px;
+	margin:auto;
+	font-family:siyam rupali;
+}
+
+
+#meyu
+{
+	margin-top:10px;
+	/*border:1px solid #F5060A;*/
+	width:700px;
+	height:250px;
+	margin-top:10px;
+}
+
+
+
+#merit
+{
+	float:left;
+	/*border:1px solid #F5060A;*/
+	width:340px;
+	height:250px;
+	margin:5px;
+	font-family:siyam rupali;
+}
+
+#you
+{
+	float:right;
+	border:1px solid #701EC9;
+	width:345px;
+	height:250px;
+	margin:auto;
+}
+
+
+#right
+{
+
+
+	float:right;
+	/*border:1px solid #F5060A;*/
+	width:259px;
+	height:800px;
+	margin:auto;
+
+}
+
+
+#rb1
+{
+	font-size:25px;
+	font-family:siyam rupali;
+	line-height:45px;
+	border-radius:14px;
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:5px;
+	margin-left:5px;
+	background-color:#1370D1;
+	/*border:1px solid #F5060A;*/
+	width:248px;
+	height:50px;
+	
+}
+
+#rb2
+{
+	border:1px solid #1189BB;
+	width:248px;
+	height:470px;
+	margin:auto;
+	background-color:#94A70A;
+}
+
+#rb3
+{
+	line-height:45px;
+	margin-top:20px;
+	border-radius:14px;
+	text-align:center;
+	background-color:#1370D1;
+	/*border:1px solid #F5060A;*/
+	width:258px;
+	height:50px;
+	font-family:siyam rupali;
+	font-size:15px;
+	
+}
+
+#rb4
+{
+	
+	/*border:1px solid #F5060A;*/
+	width:248px;
+	height:180px;
+	margin:auto;
+	
+}
+
+
+#htmlMarqueeNews 
+{
+	height:30px;
+	width:1098px;
+	background-color:FFFFFF;
+	font-family:Cursive;
+	font-size:11pt;
+	color:000066;
+	
+ }
+     
+	 
+	 
+#htmlMarqueeNotification
+{
+	height:470px;
+	width:10px;
+	background-color:FFFFFF;
+	font-family:Cursive;
+	font-size:11pt;
+	color:000066;
+	
+ }
+ 
+ 
+ 
+#htmlMarqueeMerit
+{
+	height:350px;
+	width:280px;
+	background-color:FFFFFF;
+	font-family:Cursive;
+	font-size:11pt;
+	color:000066;
+	
+ }                   
+ 
+ 
+ 
+ 
+            
